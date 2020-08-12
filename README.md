@@ -3,4 +3,4 @@
 </a></span>
 <p>Eterno estudante em Desenvolvimento Web.</p>
 <b>Meus hobbies:</b>
-<p>Aprender algo novo todos os dias, amo computador, ouvir música, tocar violão, ler, cachorros e comida.</p>
+<p>Aprender algo novo todos os dias, amo computador, ouvir música, tocar violão, livros, cachorros e comida.</p>
