@@ -1,5 +1,5 @@
 <h1>Victor Ribeiro</h1>
-<span>Estudante do 4º semestre em Análise de Sistemas e estagiário na <a target="_blank" href="https://www.geweb.com.br/">SMARAPD Informática
+<span>Estudante do 4º semestre em Análise de Sistemas e estagiário na <a target="_blank" href="http://www.smarapd.com.br/">SMARAPD Informática
 </a></span>
 <p>Eterno estudante em Desenvolvimento Web.</p>
 <b>Meus hobbies:</b>
