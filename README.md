@@ -11,6 +11,8 @@ Trabalho como Desenvolvedor FullStack Jr, porém fico mais especificamente com a
 * CSS
 * Bootstrap
 * PHP
+
+### Linguagens que trabalho atualmente
 * C#
 * Angular
 * Typescript
