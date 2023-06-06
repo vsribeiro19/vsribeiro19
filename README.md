@@ -11,11 +11,13 @@ Atualmente estou trabalhando como Desenvolvedor FullStack Jr, porém fico mais e
 * CSS
 * Bootstrap
 * PHP
+* MariaDB
 
 ### Linguagens que trabalho atualmente
 * C#
 * Angular
 * Typescript
+* SQL Server
 
 
 
