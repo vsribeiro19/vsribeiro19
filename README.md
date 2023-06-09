@@ -14,7 +14,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas, pelo Centro Universitári
 ### Linguagens que já trabalhei
 - HTML
 - CSS
-- Bootstrap
 - PHP
 - MariaDB
 
