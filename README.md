@@ -21,4 +21,3 @@ Sou formado em Análise e Desenvolvimento de Sistemas, pelo Centro Universitári
 - C#
 - Angular
 - Typescript
-- SQL Server
