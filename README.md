@@ -3,7 +3,7 @@
 ## Sobre mim :notes: :tv: :soccer: :guitar:
 
 Me chamo Victor Ribeiro, tenho 28 anos e moro em Ribeirão Preto/SP. Sou guitarrista na banda [Cidda](https://open.spotify.com/artist/5FTwWPk1HLmQ8Jc4mYRM0t?si=ytkwlocpR1mVSsX_Js_xuA), adoro música e meus dogs :dog:.
-No meu tempo livre gosto de ver vídeos aleatórios no Youtube, ir ao cinema, andar em parques, ouvir música, comer, tocar guitarra e fazer projetos aleatórios para praticar e estudar as linguagens que estou aprendendo no momento. Fique à vontade para dar uma olhada em meus projetos, muitos ainda estão em construção.
+No meu tempo livre gosto de ver vídeos aleatórios no Youtube, ir ao cinema, andar em parques, ler,ouvir música, comer, tocar guitarra e fazer projetos aleatórios para praticar e estudar as linguagens que estou aprendendo no momento. Fique à vontade para dar uma olhada em meus projetos, muitos ainda estão em construção.
 
 ## Vida profissional :computer: 
 Atualmente estou trabalhando como Desenvolvedor FullStack Jr, porém fico mais especificamente com a parte do Front End. Para saber mais sobre minhas experiências profissionais, acesse e conecte-se comigo no [Linkedin](https://www.linkedin.com/in/victor-ribeiro4231/). 
