@@ -9,7 +9,7 @@ No meu tempo livre gosto de ver vídeos aleatórios no Youtube, ir ao cinema, an
 Atualmente estou trabalhando como Desenvolvedor FullStack Jr, porém fico mais especificamente com a parte do Front End. Para saber mais sobre minhas experiências profissionais, acesse e conecte-se comigo no [Linkedin](https://www.linkedin.com/in/victor-ribeiro4231/). 
 
 ## Formação :books: :mortar_board:
-Sou formado em Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Moura Lacerda. Desde então minha forma de estudo tem sido autodidata.
+Sou formado em Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Moura Lacerda. Atualmente tenho estudado através de projetos pessoais, cursos livres, imersões, etc.
 
 ### Linguagens que já trabalhei
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
