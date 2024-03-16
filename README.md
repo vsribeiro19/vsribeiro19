@@ -11,7 +11,7 @@ Atualmente estou trabalhando como Desenvolvedor FullStack Jr, porém fico mais e
 ## Formação :books: :mortar_board:
 Sou formado em Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Moura Lacerda. Atualmente tenho estudado através de projetos pessoais, cursos livres, imersões, etc.
 
-## Projetos atuais
+## Objetivos atuais
 Estou sempre desenvolvendo meus projetos pessoais, criados desde a prototipação até o desenvolvimento por mim. Isso faz com que eu me mantenha em constante evolução e aperfeiçoamento. Fique à vontade para clonar os meus projetos. Ficarei contente em receber um feedback.
 No momento foco os meus estudos em Front End, pois é a minha área de interesse. Porém, também busco melhorar os meus conhecimentos em back end, na construção de API's e a comunicação com o Front End, pois acredito que é muito importante um desenvolvedor Web ter conhecimentos sobre back end.  
 A área de Design também ocupa um espaço considerável em meu coração, onde tenho formação técnica em Design gráfico. Possuo noções em UI/UX e utilizo sempre em meus projetos pessoais, que construo desde o layout com o Figma, ferramenta incrível e em alta nos dias atuais.
