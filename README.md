@@ -2,7 +2,7 @@
 
 ## Sobre mim :notes: :tv: :soccer: :guitar:
 
-Me chamo Victor Ribeiro, tenho 28 anos e moro em Ribeirão Preto/SP. Sou guitarrista na banda [Cidda](https://open.spotify.com/artist/5FTwWPk1HLmQ8Jc4mYRM0t?si=ytkwlocpR1mVSsX_Js_xuA), adoro música e meus dogs :dog:.
+Me chamo Victor Ribeiro, tenho 29 anos e moro em Ribeirão Preto/SP. Amo música, minha família, livros e meus dogs :dog:.
 No meu tempo livre gosto de ver vídeos aleatórios no Youtube, ir ao cinema, andar em parques, ler,ouvir música, comer, tocar guitarra e fazer projetos aleatórios para praticar e estudar as linguagens que estou aprendendo no momento. Fique à vontade para dar uma olhada em meus projetos, muitos ainda estão em construção.
 
 ## Vida profissional :computer: 
