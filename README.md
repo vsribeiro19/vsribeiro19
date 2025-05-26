@@ -6,7 +6,7 @@ Me chamo Victor Ribeiro, tenho 29 anos e moro em Ribeirão Preto/SP. Amo música
 No meu tempo livre gosto de ver vídeos aleatórios no Youtube, ir ao cinema, andar em parques, ler,ouvir música, comer, tocar guitarra e fazer projetos aleatórios para praticar e estudar as linguagens que estou aprendendo no momento. Fique à vontade para dar uma olhada em meus projetos, muitos ainda estão em construção.
 
 ## Vida profissional :computer: 
-Atualmente estou trabalhando como Desenvolvedor Front End na Engineering Brasil. Para saber mais sobre minhas experiências profissionais, acesse e conecte-se comigo no [Linkedin](https://www.linkedin.com/in/victor-ribeiro4231/). 
+Atualmente trabalho como Desenvolvedor Front End na Engineering Brasil. Para saber mais sobre minhas experiências profissionais, acesse e conecte-se comigo no [Linkedin](https://www.linkedin.com/in/victor-ribeiro4231/). 
 
 ## Formação :books: :mortar_board:
 Sou formado em Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Moura Lacerda. Atualmente tenho estudado através de projetos pessoais, cursos livres, imersões, etc.
@@ -23,17 +23,8 @@ A área de Design também ocupa um espaço considerável em meu coração, onde 
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Linguagens/frameworks que trabalho atualmente
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
-![](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### Serviços
 ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### Já utilizei em projetos pessoais
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
